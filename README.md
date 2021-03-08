@@ -1,2 +1,3 @@
 # idkman
-idk man
+How did you even get here?
+
